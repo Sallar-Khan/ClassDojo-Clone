@@ -1,0 +1,28 @@
+.plus{
+    height: 800px;
+}
+
+.plus-h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.plus-p{
+    font-size: 35px;
+    padding-right: 150px;
+    font-weight: 600;
+    margin-top: 40px;
+    
+}
+
+.btn-plus{
+    height: 60px;
+    width: 220px;
+    margin-top: 40px;
+    background-color: #8047FF;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+

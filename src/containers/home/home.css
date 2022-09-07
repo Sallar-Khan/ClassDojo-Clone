@@ -1,0 +1,19 @@
+.bg-grey{
+    background: #F5F5F3;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 1000px;
+}
+
+.h3-sec2{
+    margin-top: 200px;
+    padding-left: 1000px;
+    padding-right: 1000px;
+    font-size: 35px;
+    font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+
+.box-div{
+    height: 110%;
+}

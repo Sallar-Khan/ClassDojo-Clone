@@ -1,0 +1,25 @@
+.text-resize{
+    position: relative;
+    top: -600px;
+    left: 15px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+}
+.text-p{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+    font-weight: 500;
+    margin-top: 25px;
+    
+}
+
+.btn-resize{
+    height: 60px;
+    width: 220px;
+    margin-top: 40px;
+    font-size: 22px;
+    font-weight: 700;
+}
