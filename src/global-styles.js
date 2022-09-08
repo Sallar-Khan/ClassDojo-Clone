@@ -7,6 +7,6 @@ export const GlobalStyles = createGlobalStyle`
     padding: 0;
     font-family: 'Nunito Sans', sans-serif;
     position: relative;
-    top: 300px;
+    // top: 300px;
     background: white;
 }`;
