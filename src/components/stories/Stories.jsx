@@ -4,7 +4,7 @@ import './stories.css'
 function Stories() {
   return (
     <>
-    <div className=' story d-flex text-center pt-5'>
+    <div className=' story d-flex text-center pt-5 mt-md-5 mt-sm-5 align-center'>
         <div className='col-lg-6 '>
             <h2 className='story-h2 '>Share the story of your classroom with families</h2>
             <p className='story-p '>Instantly share photos, videos, and announcements <br /> on Class Story, or privately message with any parent 😍</p>
@@ -15,7 +15,7 @@ function Stories() {
             <li className='py-3 '>Let families know when you're busy with Quiet Hours</li>
             </ul>
             </div>
-            <button type="button" class="btn btn-primary rounded-pill btn_resize">Learn More</button>
+            <button type="button" className="btn btn-primary rounded-pill btn_resize">Learn More</button>
         </div>
 
         <div className='col-lg-6'>

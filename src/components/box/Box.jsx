@@ -5,7 +5,7 @@ function Box(props) {
   return (
     <>
     
-        <div className='card col-md-2 col-md-offset-2 '>
+        <div className='card col-md-10 col-lg-3 col-sm-12 '>
         
             <img className=' img-* img-responsive img-resize m-auto' src={props.img_link} alt="heart" />
             <div className="card-body">
