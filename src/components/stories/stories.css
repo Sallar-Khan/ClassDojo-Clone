@@ -1,7 +1,7 @@
 .story{
-     height: 800px;
+     /* height: 800px;
     /* margin-left: 250px;
-    margin-top: 200px;  */
+    margin-top: 200px;  */ 
     
     
     
@@ -9,7 +9,7 @@
 
 .story-h2{
     font-size: 40px;
-    margin-top: 150px;
+    /* margin-top: 150px; */
 }
 .story-p{
     font-size: 25px;
@@ -20,8 +20,8 @@
 }
 
 .btn_resize{
-    height: 60px;
-    width: 200px;
+    /* height: 60px;
+    width: 200px; */
     font-size: 20px;
 
 

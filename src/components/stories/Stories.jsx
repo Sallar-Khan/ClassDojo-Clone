@@ -4,7 +4,7 @@ import './stories.css'
 function Stories() {
   return (
     <>
-    <div className=' story d-flex text-center'>
+    <div className=' story d-flex text-center pt-5'>
         <div className='col-lg-6 '>
             <h2 className='story-h2 '>Share the story of your classroom with families</h2>
             <p className='story-p '>Instantly share photos, videos, and announcements <br /> on Class Story, or privately message with any parent 😍</p>

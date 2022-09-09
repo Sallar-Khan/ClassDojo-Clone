@@ -4,17 +4,21 @@
 }
 
 .cards{
-    width: 18rem;
+    /* width: 18rem;
     border: 1px solid #F0F0F0;
     width: 19%;
     height: 38%;
-    margin-top: 150px;
+    margin-top: 150px; */
 }
 
 .img-resize{
-   height: 110px; 
-   width: 130px;
-   top: -40px;
+   /* height: 110px; 
+   width: 130px; */
    position: relative;
+   top: -36px;
    
+}
+.p-tag{
+    font-size: 20px;
+    font-weight: 600;
 }

@@ -61,9 +61,10 @@ function Home() {
     <div className="row bg-grey" >
     
       <div className="col">
-        
-          <h3 className='text-center h3-sec2 '>ClassDojo connects teachers with students and parents to build amazing classroom communities</h3>
-          <div className='row justify-content-center box-div'>
+      <br/>
+      <br/>
+          <h3 className='text-center p-5 m-5'>ClassDojo connects teachers with students and parents to build amazing classroom communities</h3>
+          <div className='row justify-content-center'>
             <Box card_title = "Create a positive culture" card_text = "Teachers can encourage students for any skill or value — whether it's working hard, being kind, helping others or something else" img_link = "https://www.classdojo.com/static/daef618c04d7456bf9cda32910f27aed/1689f/33ff5984-f5cb-4d9a-aa7a-fbbbc9382d7a.png"/>
             <Box card_title = "Give students a voice" card_text = "Students can showcase and share their learning by adding photos and videos to their own portfolios" img_link = "https://www.classdojo.com/static/558793ea8dd2a2dd248b3dcc6ffbcbd7/1689f/dd8bb1fd-2bd8-49ca-b677-532d753b24b1.png"/>
             <Box card_title = "Share moments with parents" card_text = "Get parents engaged by sharing photos and videos of wonderful classroom moments" img_link = "https://www.classdojo.com/static/ce3a961fdbe41fbce9a2128640a14849/1689f/bbbcc6ee-871d-4ce6-8b7f-9477cca36663.png"/>
